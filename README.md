@@ -1,2 +1,1 @@
-# JACKPOT.SIMULATOR
-Simulator jackpot
+
